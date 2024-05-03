@@ -31,5 +31,5 @@
     Все элементы отображаются без искажений и доступны, текст читаемый, весь контент по центру страницы
   actual-result: |
     Многие элементы страницы не адаптивны, отдельные поля невозможно заполнить, контент не по центру
-    Ошибки на скриншотах: https://github.com/VicDk/qa-engineer-project-84/blob/main/scrn-bag-1.jpg
+    Ошибки на скриншотах: https://github.com/VicDk/qa-engineer-project-84/blob/main/scrn-bag-1.jpg,
     https://github.com/VicDk/qa-engineer-project-84/blob/main/scrn-bag-2.jpg
