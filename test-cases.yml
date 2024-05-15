@@ -166,11 +166,9 @@
   requirement: |
     Пользователь должен оформить товар находящийся в корзине с автоматическим переходом на страницу оплаты
   prerequisites: |
-    Открыта страница корзины по адресу: https://hexlet-products-store.vercel.app/cart, в корзине находится несколько товаров
+    Открыта страница корзины по адресу: https://hexlet-products-store.vercel.app/cart, в корзине находятся любые 2-3 товара
   test-data: |
-    Тестовые данные
-    Товар 1, например = Samsung Universe 9
-    Товар 2, например = Automatic Motor Gas Motorcycles
+    No data
   steps:
     - Нажимаем кнопку "Оформить заказ", открывается страница оплаты
   expected-result: |
