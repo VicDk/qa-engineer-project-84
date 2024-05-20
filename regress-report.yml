@@ -44,7 +44,7 @@ test-cases:
 
   - summary: |
       Проверка удаления товаров из корзины
-    status: fail
+    status: pass
 
   - summary: |
       Проверка функции очистки корзины
