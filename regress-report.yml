@@ -85,7 +85,6 @@ test-cases:
     status: pass
 
 bugreports:
-
   - summary: |
       Не очищается корзина по кнопке "Очистить корзину"
     environment: |
